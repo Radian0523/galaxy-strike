@@ -61,7 +61,7 @@
                 {
                     "name": "Left",
                     "id": "629d0201-5e86-4aba-bf7b-aa2bb95ad241",
-                    "path": "",
+                    "path": "<Keyboard>/a",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -72,40 +72,7 @@
                 {
                     "name": "Right",
                     "id": "17194630-c545-4f23-b884-22b93df3c224",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "One Modifier",
-                    "id": "28625e3d-06c6-43dd-9137-ba4012b58db3",
-                    "path": "OneModifier",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": true,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "modifier",
-                    "id": "75f569a8-4ab5-4523-a03e-51faf55cee07",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "binding",
-                    "id": "8f1dee98-804d-4dc3-bdd6-86716301dbd0",
-                    "path": "",
+                    "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
